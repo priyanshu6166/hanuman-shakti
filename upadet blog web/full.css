@@ -1,0 +1,674 @@
+.nav1{
+    top: -6px;
+    width: 100%;
+    left: 0px;
+    height: 120px;
+    background-color: rgb(254, 243, 226);
+    position: relative;
+}
+.translater{
+    width: 200PX;
+    position: absolute;
+    left: 1690px;
+    top: 28px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.logo{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+   
+}
+.logoimg{
+    width: 100%;
+    height: 100%;
+    filter: contrast(120%);
+}
+.logoname{
+    position: absolute;
+    font-size: 40px;
+    font-weight: 700;
+    left: 120px;
+    top: 20px;
+    color: rgb(250, 129, 47);
+    text-shadow: 1px 1px 1px black;
+}
+.mantr{
+    position: absolute;
+    left: 60%;
+    font-size: 30px;
+    top: 25px;
+    font-weight:600 ;
+    color: rgb(250, 129, 47);
+    text-shadow: 1px 1px 1px black;
+    
+}
+.contain{
+    
+    width: 100%;
+    margin-left: -6px;
+    margin-top: -5px;
+    height: 510px;
+    background-color: rgb(250, 129, 47);
+}
+#birth-heading{
+    text-shadow: 2px 1px 1px rgb(0, 0, 0);
+    color: rgb(250, 64, 50);
+    position: absolute;
+    left: 100px;
+    
+    font-size: 35px;
+    font-weight: 700;
+}
+.birth{
+    text-shadow: 2px 1px 1px black;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 250px;
+    text-align: left;
+    width: 71%;
+    height: 400px;
+text-decoration: double;
+font-weight: 700;
+font-size: 30px;
+font-style: italic;
+
+}
+.birthimg{
+    top: 130px;
+    left: 1350px;
+    position:absolute;
+    width: 500px;
+    height: 500px;
+
+}
+.custom-shape-divider-top-1732035347 {
+    z-index: 1;
+    position: absolute;
+    top: 620px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1732035347 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 221px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1732035347 .shape-fill {
+    fill: rgb(250, 129, 47);
+}
+.contain1{
+    width: 100%;
+    height: 1250px;
+    background-color: rgb(250, 177, 47);
+    position: relative;
+}
+.tt1{
+    left: 28%;
+    top: 240px;
+    position: absolute;
+    font-size: 45px;
+    font-weight: 700;
+    font-style: oblique;
+}
+.tt2{
+    left: 150px;
+    width: 1700px;
+text-align: center;
+    height: 300px;
+    top: 320px;
+    position: absolute;
+    font-size: 40px;
+    font-weight: 700;
+   
+}
+.ttimg{
+    left: 149px;
+    top: 500px;
+    position: absolute;
+    width: 1600px;
+    height: 700px;
+}
+.carsoul{
+  width: 100%;
+  height: 900px;
+position: relative;
+}
+.carsimg{
+    left: 30px;
+top: 290px;
+    position: absolute;
+    width: 600px;
+    height: 600px;
+}
+.carsoultext{
+    position: absolute;
+    top: 300px;
+    font-weight: 600;
+    left: 800px;
+}
+.carsoultext2{
+    
+    width: 1000px;
+    position: absolute;
+    top: 400px;
+    left: 780px;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
+.custom-shape-divider-bottom-1732716624 {
+    z-index: -1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1732716624 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 174px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1732716624 .shape-fill {
+    fill: #FA812F;
+}
+.custom-shape-divider-top-1732717087 {
+    position: absolute;
+    top: 900px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1732717087 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 154px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1732717087 .shape-fill {
+    fill: #FA812F;
+}
+.carsoul2{
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+.carsimg2{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    border-radius: 0% 10% 0% 20%;
+    left: 1340px;
+    top: 200px;
+}
+.carsoultext3{
+    width: 600px;
+    position: absolute;
+    top: 10px;
+    
+    right: 800px;
+    font-weight: 800;
+    
+   
+}
+.carsoultext301{
+    position: absolute;
+       width: 1100px;
+       height: 600px;
+       right: 700px;
+       font-size: 20px;
+       bottom: -200px;
+}
+.custom-shape-divider-top-1732720143 {
+    z-index: -1;
+    position: absolute;
+    top: 760px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1732720143 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 149px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1732720143 .shape-fill {
+    fill: #FA812F;
+}
+
+.curv{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+}
+.custom-shape-divider-bottom-1732720318 {
+    position: absolute;
+    top: 540px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1732720318 svg {
+    position: relative;
+    display: block;
+    width: calc(115% + 1.3px);
+    height: 223px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1732720318 .shape-fill {
+    fill: #FA812F;
+}
+
+
+.footer2{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0);
+    
+
+}
+
+ /* General Styling */
+
+
+/* Footer Styling */
+footer {
+    background-color: rgb(250, 129, 47); /* Light background color */
+    color: black; /* Dark text color */
+    padding: 40px 0; /* Padding for space */
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* Font family */
+    border-top: 2px solid #e0e0e0; /* Light border at the top */
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Email Styling */
+.footer-content p {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.footer-content a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+/* Social Media Icons Section */
+.social-icons {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px; /* Larger gap between icons */
+}
+
+.social-icons a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(250, 177, 47); /* White background for icons */
+    border-radius: 50%; /* Circular shape */
+    border: 2px solid black; /* Dark border */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.social-icons a img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain; /* Ensure icons fit inside the circle */
+}
+
+.social-icons a:hover {
+    background-color: black; /* Green background on hover */
+    border-color: white; /* Green border on hover */
+    transform: scale(1.1); /* Slight zoom effect on hover */
+}
+
+/* Footer Bottom Text */
+.footer-bottom {
+    margin-top: 20px;
+    font-size: 14px;
+    color: black; /* Light grey color for footer text */
+}
+
+.footer-bottom a {
+    color: black;
+    text-decoration: none;
+}
+
+.footer-bottom a:hover {
+    color: white; /* Green hover effect for links */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .social-icons {
+        gap: 20px; /* Slightly smaller gap between icons */
+    }
+
+    .social-icons a {
+        width: 50px;
+        height: 50px;
+    }
+
+    .footer-content p {
+        font-size: 16px; /* Slightly smaller font for smaller screens */
+    }
+}
+
+
+
+.comment1{
+    position: relative;
+    width: 100%;
+    height: 300px;
+  
+}
+
+h2 {
+    text-align: center;
+}
+
+.comment-box {
+    margin-bottom: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comment-box textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+}
+
+.comment-box button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.comment-box button:hover {
+    background-color: #45a049;
+}
+
+.comments-section {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.comment {
+    background-color: #fff;
+    border-left: 5px solid #4CAF50;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.comment button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.comment button.edit {
+    background-color: #4CAF50;
+}
+
+.comment button:hover {
+    opacity: 0.8;
+}
+
+/* Custom Alert */
+.custom-alert {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    border-radius: 5px;
+    z-index: 9999;
+    text-align: center;
+    font-size: 18px;
+    width: 80%;
+    max-width: 300px;
+}
+
+.custom-alert button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #f44336;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.custom-alert button:hover {
+    background-color: #f4f4f4;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .comment-box {
+        width: 90%;
+    }
+
+    .comment-box button {
+        width: 100%;
+    }
+
+    .comments-section {
+        width: 90%;
+    }
+
+    .comment {
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 500px) {
+    footer {
+        padding: 30px 0; /* Reduced padding for mobile devices */
+    }
+
+    .footer-content p {
+        font-size: 14px; /* Even smaller font on mobile */
+    }
+
+    .social-icons {
+        gap: 15px; /* Even smaller gap between icons */
+    }
+
+    .social-icons a {
+        width: 45px;
+        height: 45px;
+    }
+
+    .footer-bottom {
+        font-size: 12px; /* Smaller footer text on mobile */
+    }
+    .nav1{
+        width: 103.6%;
+        height: 90px;
+        background-color: rgb(254, 243, 226);
+        position: relative;
+        top: -7px;
+        right: 10px;
+    }
+
+.logo{
+    width: 50px;
+    height: 50px;
+    top: 10px;
+}
+.logoname{
+    font-size: 20px;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+    
+}
+.mantr{
+    position: absolute;
+width: 290px;
+    font-size: 15px;
+left: 49px;
+top: 50px;
+}
+.translater{
+    position: absolute;
+    left: 290px;
+    width: 80px;
+    height: 30px;
+font-size: 15px;
+}
+.contain{
+    position: relative;
+    left: -1px;
+    top: -5px;
+    width: 103.6%;
+
+}
+#birth-heading{
+    font-size: 20px;
+    left: 70px;
+
+}
+.birth{
+    width: 400px;
+    top: 350px;
+    left: 27px;
+    text-align: center;
+    font-size: 15px;
+}
+.birthimg{
+    left: 70px;
+    width: 300px;
+    height: 300px;
+    top: 50px;
+}
+.custom-shape-divider-top-1732035347{
+    position: absolute;
+    top: 500px;
+    z-index: -1;
+    
+    
+}
+.carsoul{
+    width: 100%;
+    height: 600px;
+    left: -8px;
+}
+.carsimg{
+    width: 400px;
+    height: 300px;
+    left: 25px;
+    top: 100px;
+}
+.carsoultext{
+    font-size: 22px;
+    width: 290px;
+    left: 80px;
+    top: 30px;
+  
+}
+.carsoultext2{
+    left: 20px;
+    font-size: 12px;
+    width: 400px;
+
+}
+.custom-shape-divider-top-1732717087{
+    top: 599px;
+    z-index: -1;
+    left: 1px;
+}
+.carsoultext3{
+    width: 350px;
+    font-size: 30px;
+    border: 1px solid black;
+    top: -80px;
+    right: -40px;
+}
+.carsoultext301{
+    width: 400px;
+    font-size: 11px;
+    top: 300px;
+    left: -40px;
+}
+.carsimg2{
+    width: 300px;
+    left: 50px;
+    top: 250px;
+    
+}
+.footer2{
+left: -13px;
+    width: 103.6%;
+    top: 100px;
+}
+.comment1{
+    top: 70px;
+    left: -10px;
+}
+
+}
